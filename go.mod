@@ -1,3 +1,3 @@
-module github.com/dhnikolas/utils
+module github.com/Uiopas/utils
 
 go 1.20
